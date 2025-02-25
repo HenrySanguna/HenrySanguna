@@ -1,8 +1,8 @@
 # 👋 ¡Hola, soy Henry Sanguña! 🚀
 
-## 🌐 Desarrollador Frontend Web & Móvil | Experiencia en Backend y Bases de Datos
+## 🌐 Desarrollador Frontend Web & Móvil | Experiencia en Backend | Bases de Datos | CI/CD
 
-Soy un desarrollador con **más de 5 años de experiencia** en el desarrollo de aplicaciones web y móviles, actualmente más enfocado en **Frontend** con **Angular, React e Ionic**. Me apasiona construir soluciones escalables, con un enfoque en la **experiencia del usuario** y la **eficiencia del código**.
+Soy un desarrollador con **más de a años de experiencia** en el desarrollo de aplicaciones web y móviles, actualmente más enfocado en **Frontend** con **Angular e Ionic** pero siempre cotribuyendo con cada uno de proceso del desarrollo de aplicaciones, **Backend**, **Bases de datos**, **CI/CD**. Me apasiona construir soluciones escalables, con un enfoque en la **experiencia del usuario** y la **eficiencia del código**.
 
 ---
 
