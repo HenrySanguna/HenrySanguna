@@ -6,6 +6,18 @@ Soy un desarrollador con **más de a años de experiencia** en el desarrollo de 
 
 ---
 
+## Principales Skills
+<div align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="Ionic" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Python" width="80">
+    </div>
+
 ## 🛠️ Tecnologías y Herramientas  
 
 ### 🔹 **Frontend**
