@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Henry Sanguña! 🚀
 
-<!--
-**HenrySanguna/HenrySanguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Desarrollador Frontend Web & Móvil | Experiencia en Backend y Bases de Datos
 
-Here are some ideas to get you started:
+Soy un desarrollador con **más de 5 años de experiencia** en el desarrollo de aplicaciones web y móviles, actualmente más enfocado en **Frontend** con **Angular, React e Ionic**. Me apasiona construir soluciones escalables, con un enfoque en la **experiencia del usuario** y la **eficiencia del código**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y Herramientas  
+
+### 🔹 **Frontend**
+- 🌟 **Frameworks:** Angular, React, Ionic, React Native  
+- 🎨 **Estilos:** Tailwind, Bootstrap, SCSS, Sass  
+- ⚡ **Otros:** RxJS, Capacitor, Expo  
+
+### 🔹 **Backend**
+- 🚀 **Lenguajes y Frameworks:** Node.js (Express), Java (Spring Boot, Java EE), JSF  
+- 🔗 **APIs:** REST, GraphQL, WebSockets  
+- 📦 **ORMs:** TypeORM, Sequelize, Hibernate, JPA  
+
+### 🔹 **Bases de Datos**
+- 🗄️ **SQL:** PostgreSQL, MySQL, SQLite, Oracle  
+- 📂 **NoSQL:** MongoDB (Mongoose), Firebase  
+
+### 🔹 **Herramientas y DevOps**
+- 🛠️ Git (GitFlow), Docker  
+- ☁️ Azure DevOps  
+- 🔄 CI/CD  
+
+---
+
+## 📌 Proyectos Destacados
+🔹 **OCCIDENT ACTIVA** - Aplicación de seguros con **Angular** y WebView.  
+🔹 **APP ALMACÉN REINA SOFÍA** - Gestión de obras de arte con **Ionic, Capacitor y SQLite**.  
+🔹 **COMPÉNSATE** - Plataforma financiera con **Angular y Node.js**.  
+🔹 **SIVENIN PRO** - ERP para negocios con **Java EE y JSF**.  
+🔹 **APP ASEGURADORA DEL SUR** - Aplicación móvil con **Flutter y Node.js**.  
+
+---
+
+## 📫 ¡Conéctate conmigo!  
+📩 henrysanguna@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/henrysangunaiza)  
+🚀 ¡Explora mis repositorios y colaboremos en proyectos increíbles!
+
+---
+
+📌 *Siempre en búsqueda de nuevos retos y aprendizaje continuo.* 💡✨
